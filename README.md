@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Yuyyiyy/Psycho-ha-hub-real/refs/heads/main/README.md
+https://pastefy.app/InrrED1p#tke8vi8a3odqb7gcx0q
