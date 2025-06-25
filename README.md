@@ -1,4 +1,4 @@
-https://pastefy.app/ZnBOaspT
+
 -- SERVICES
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
